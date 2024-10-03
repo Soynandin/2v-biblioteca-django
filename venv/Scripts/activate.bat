@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\ferna\OneDrive\Documentos\biblioteca-django\biblioteca-django\venv
+set VIRTUAL_ENV=C:\Users\ferna\OneDrive\Documentos\2v-biblioteca-django\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
